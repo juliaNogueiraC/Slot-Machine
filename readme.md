@@ -18,6 +18,6 @@ Sinta-se à vontade para contribuir para o desenvolvimento deste projeto. Se voc
 2. Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/maquina-caca-niquel-python.git
+git clone https://github.com/seu-usuario/Slot-Machine.git
 
 
